@@ -496,7 +496,7 @@ a:hover,a.active{
 /* End blog here */
 
 
-   .slider-container {
+/*    .slider-container {
     position: relative;
     width: 100%;
 }
@@ -540,7 +540,7 @@ a:hover,a.active{
 
 .slide {
     display: none;
-}
+} */
 
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700;800&display=swap');
 @import url('https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css');
