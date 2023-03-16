@@ -288,7 +288,7 @@ a:hover,a.active{
 }
 
 .about-section{
-    background-image:linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(./image/about\ 3.png);
+    background-image:linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(./about\ 3.png);
     background-size: cover;
     /* height: 100vh; */
     background-position: center;
@@ -296,7 +296,7 @@ a:hover,a.active{
 }
 
 #quote-page{
-    background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(./image/game-development.webp);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(./game-development.webp);
     background-attachment: fixed;
     background-position: center;
     background-size: cover;
