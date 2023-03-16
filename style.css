@@ -89,7 +89,7 @@ ul li.center a::before{
 
 
 section{
-    background-image:linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(./image/game-development.webp);
+    background-image:linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(./game-development.webp);
     background-size: cover;
     /* height: 100vh; */
     background-position: center;
@@ -207,7 +207,7 @@ input[type=submit] {
  /* Start about-section here */
  
  .about-section{
-    background-image: linear-gradient(rgba(22, 22, 32, 0.1), rgba(22, 22, 32, 0.6)), url(./image/about\ 3.png);
+    background-image: linear-gradient(rgba(22, 22, 32, 0.1), rgba(22, 22, 32, 0.6)), url(./about\ 3.png);
     height: 100vh;
     background-repeat: no-repeat;
  }
